@@ -3,9 +3,7 @@
 ## **Project Overview**
 
 FocusTrack is a simple and effective desktop application built with Java Swing to help users manage their tasks and stay focused using a countdown timer.
-## 📄 Documentation
-- [Project Report (PDF)](docs/Pomodoro_2.0_Project_Report.pdf)
-- 
+
 ## **Features**
 
 - Add, delete, and save personal tasks
@@ -49,4 +47,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## 📄 Documentation
+- [Project Report (PDF)](docs/Pomodoro_2.0_Project_Report.pdf)
 
